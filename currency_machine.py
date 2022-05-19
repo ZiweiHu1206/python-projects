@@ -1,7 +1,7 @@
 
 #The program simulates a virtual currency exchange machine on the planet Orion IX.
 #The program is to convert between the local curreny (dollars) to COMP202COIN.
-#Ziwei Hu 260889365
+#Ziwei Hu 
 
 #Assign default values to variables
 SUN1_SET = False
