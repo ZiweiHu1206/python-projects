@@ -2,7 +2,7 @@
 #The program is a fair pizza calculator.
 #The program converts the one large pizza to the number of small pizza by their diameters.
 #The program can also convert the price of large pizza to the price of the amount of pizza the user buys by their diameters.
-#Ziwei Hu 260889365
+#Ziwei Hu
 import math
 
 def display_welcome_menu():
